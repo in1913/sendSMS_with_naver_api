@@ -1,0 +1,21 @@
+.bg-naver {
+    background-color: #05D686!important;
+    border-color: #05D686!important;
+}
+.bg-naver-danger{
+    background-color: #FF002E!important;
+    border-color: #FF002E!important;
+}
+.bg-naver-info{
+    background-color: #3984FF!important;
+    border-color: #3984FF!important;
+}
+.text-naver {
+    color: #05D686!important;
+}
+.text-naver-danger {
+    color: #FF002E!important;
+}
+.text-naver-info {
+    color: #3984FF!important;
+}
